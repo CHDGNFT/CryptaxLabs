@@ -142,6 +142,10 @@ p {
 img {
   background-color: black;
 }
+
+a {
+  background-color: black;
+}
 .title-white {
   font-family: 'loveloline_bold';
   font-size: 205px;
