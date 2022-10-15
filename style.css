@@ -10,8 +10,6 @@
 }
 .static {
   position:absolute;
-  background: black;
-  padding-right:20px;
 }
 
 .static:hover {
@@ -132,6 +130,9 @@ p {
   display: flex;
   justify-content: center;
   background-color: black;
+}
+.about .gif-container *{
+  padding-right: 35px;
 }
 .about .about-title h1 {
   display: inline-block;
