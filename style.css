@@ -131,9 +131,7 @@ p {
   justify-content: center;
   background-color: black;
 }
-.about .gif-container *{
-  padding-left: 35px;
-}
+
 .about .about-title h1 {
   display: inline-block;
   padding-left:10px;  
