@@ -11,6 +11,7 @@
 .static {
   position:absolute;
   background: white;
+  padding-right:20px;
 }
 
 .static:hover {
@@ -123,8 +124,8 @@ p {
   text-shadow: 1px 0px 4px rgb(211, 98, 121), 2px 0px 4px rgb(226, 127, 147), 3px 0px 4px crimson, 2px 0px 3px crimson, 2px 3px 15px crimson, 2px 0px 15px, 5px 0px 125px, 20px 0vw 200px crimson,40px 0vw 200px crimson;
 }
 .about .about-title{
+  padding-bottom:15px;
   text-align: center;
-  gap:10px;
 }
 .about .gif-container{
   display: flex;
