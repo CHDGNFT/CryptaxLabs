@@ -10,7 +10,7 @@
 }
 .static {
   position:absolute;
-  background: white;
+  background: black;
   padding-right:20px;
 }
 
@@ -135,17 +135,9 @@ p {
 }
 .about .about-title h1 {
   display: inline-block;
-  padding-left:10px;
-  
+  padding-left:10px;  
 }
 
-img {
-  background-color: black;
-}
-
-a {
-  background-color: black;
-}
 .title-white {
   font-family: 'loveloline_bold';
   font-size: 205px;
