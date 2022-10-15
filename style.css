@@ -92,10 +92,31 @@ p {
     0 0 42px white
 } */
 
+.container-title-white {
+  font-family: 'loveloline_bold';
+  font-size: 205px;
+  line-height: 35px;
+  color:white;
+  text-shadow:
+    0 0 7px white,
+    0 0 10px white,
+    0 0 21px white,
+    0 0 42px white
+}
+
+.container-title-crimson {
+  font-family: 'loveloline_bold';
+  color:crimson;
+  font-size: 100px;
+  padding-top: 50px;
+  line-height: 35px;
+  text-shadow: 1px 0px 4px rgb(211, 98, 121), 2px 0px 4px rgb(226, 127, 147), 3px 0px 4px crimson, 2px 0px 3px crimson, 2px 3px 15px crimson, 2px 0px 15px, 5px 0px 125px, 20px 0vw 200px crimson,40px 0vw 200px crimson;
+}
+
 .title-crimson {
   font-family: 'loveloline_bold';
   color:crimson;
-  font-size: 205px;
+  font-size: 100px;
   padding-top: 50px;
   line-height: 35px;
   text-shadow: 1px 0px 4px rgb(211, 98, 121), 2px 0px 4px rgb(226, 127, 147), 3px 0px 4px crimson, 2px 0px 3px crimson, 2px 3px 15px crimson, 2px 0px 15px, 5px 0px 125px, 20px 0vw 200px crimson,40px 0vw 200px crimson;
@@ -103,10 +124,14 @@ p {
 .about {
   margin:0, auto;
 }
-.about * {
-  margin:0, auto;
+.about .about-title {
+  display: inline-block;
+  margin: 0, auto;
 }
 
+.about .gif-container {
+  margin:0, auto;
+}
 .title-white {
   font-family: 'loveloline_bold';
   font-size: 205px;
