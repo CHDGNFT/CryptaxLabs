@@ -132,7 +132,7 @@ p {
   background-color: black;
 }
 .about .gif-container *{
-  padding-right: 35px;
+  padding-left: 35px;
 }
 .about .about-title h1 {
   display: inline-block;
